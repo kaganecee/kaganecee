@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web applications
-- 🌱 I’m currently learning react and node.js
+- 🔭 I’m currently working on web applications.
+- 🌱 I’m currently learning react.js and node.js
 
 <!--
 **kaganecee/kaganecee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
