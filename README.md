@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Kağan's github stats](https://github-readme-stats.vercel.app/api?username=kaganecee)](https://github.com/kaganecee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaganecee)](https://github.com/kaganecee/github-readme-stats)
