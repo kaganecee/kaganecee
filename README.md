@@ -9,7 +9,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, Nodejs, PHP**
 
-- 🌱 I’m currently learning **Microservices, Docker, Kubernetes, TS**
+- 🌱 I’m currently learning **Microservices, Docker, Kubernetes**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
